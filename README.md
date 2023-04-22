@@ -8,7 +8,7 @@
  - 🤔 希望思考，做一些有趣的事情
  - 💬 生活不息，学习不止，fighting！！！
  - 🛰️ 我的微信（WeChat）: pikachu2biubiu
- - 📫 我的邮件（Email）: 1016617094@qq.com
+ - 📫 我的邮件（Email）: kedreamix@gmail.com
  - 📚 我的CSDN博客（CSDN Blog） https://redamancy.blog.csdn.net/
  - 📯 我的哔哩哔哩空间（Bilibili Video）https://space.bilibili.com/472467171
 
