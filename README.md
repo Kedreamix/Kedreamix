@@ -10,7 +10,7 @@
  - 🛰️ 我的微信（WeChat）: pikachu2biubiu
  - 📫 我的邮件（Email）: kedreamix@gmail.com
  - 📚 我的CSDN博客（CSDN Blog） https://redamancy.blog.csdn.net/
- - 📯 我的哔哩哔哩空间（Bilibili Video）https://space.bilibili.com/472467171
+ - 📯 我的哔哩哔哩空间（Bilibili Video）https://space.bilibili.com/241286257
 
 
 <!--
