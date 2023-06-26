@@ -13,6 +13,8 @@
  - 📯 我的哔哩哔哩空间（Bilibili Video）https://space.bilibili.com/241286257
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kedreamix&langs_count=5)](https://github-readme-stats.vercel.app/api/top-langs/?username=kedreamix&langs_count=5)
+
 <!--
 **Kedreamix/Kedreamix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
