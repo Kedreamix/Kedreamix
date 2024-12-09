@@ -1,22 +1,28 @@
 
+
+### Hi there 🍨
+
+- 👋 Hi, I'm Kaijun Deng.
+- 👀 I'm a student at Shenzhen University.
+- 🧡 Focus on Computer Vision (CV) and Talking Head Generation.
+- 👯 Dream of traveling around the world.
+- 🤔 Hope to think and do some interesting things.
+- 💬 Keep learning as long as life lasts. Fighting!!!
+- 🛰️ My WeChat: pikachu2biubiu.
+- 📫 My Email: kedreamix@gmail.com.
+- 🚀 My Github Blog: https://kedreamix.github.io/.
+- 📚 My CSDN Blog: https://redamancy.blog.csdn.net/.
+- 📯 My Bilibili Space: https://space.bilibili.com/241286257.
+
+![](https://github-readme-stats.vercel.app/api?username=Kedreamix&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
+![GitHub User Contribution](https://github.com/user-attachments/assets/1f56db1a-c779-4885-a47a-f32a83ff9919) 
+
+
+<!--
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Kedreamix&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
-### Hi 很高兴遇见你 👋
-
- - 🧡 专注于计算机视觉 Focus on CV
- - 👯 梦想能环游世界
- - 🤔 希望思考，做一些有趣的事情
- - 💬 生活不息，学习不止，fighting！！！
- - 🛰️ 我的微信（WeChat）: pikachu2biubiu
- - 📫 我的邮件（Email）: kedreamix@gmail.com
- - 🚀 我的个人博客（Github Blog）: https://kedreamix.github.io/
- - 📚 我的CSDN博客（CSDN Blog） https://redamancy.blog.csdn.net/
- - 📯 我的哔哩哔哩空间（Bilibili Video）https://space.bilibili.com/241286257
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kedreamix&langs_count=5)](https://github-readme-stats.vercel.app/api/top-langs/?username=kedreamix&langs_count=5)
 
-<!--
 **Kedreamix/Kedreamix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -30,3 +36,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
