@@ -4,7 +4,7 @@
 <!-- dynamic typing effect 动态打字效果 -->
 <div >
   <a href="https://kedreamix.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=835&lines=System.out.println(Hi%2C+my+nickname+is+kaijun+deng);Welcome+to+my+github!&center=true&size=25" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=835&lines=print(Hi%2C+my+nickname+is+kaijun+deng);Welcome+to+my+github!&center=true&size=25" />
   </a>
 </div>
 <!-- knock code pictures 敲代码的图片 -->
