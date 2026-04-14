@@ -15,14 +15,13 @@
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
 </picture>
 
-
  <!-- for beauty 留个空行好看点 -->
 
 <div>&nbsp;</div>
 
 
 <div align="left">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kedreamix&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />
+<img align="right" src="https://github-readme-stats-fast.vercel.app/api?username=Kedreamix&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />
 
 
 ### Hi there 🍨
@@ -52,15 +51,15 @@
 
 
 <!-- GitHub 奖杯🏆 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=kedreamix&row=1&column=7)](https://kedreamix.github.io)
+[![trophy](https://github-profile-trophy-fast.vercel.app/?username=kedreamix&row=1&column=7)](https://kedreamix.github.io)
 
 
 <!--
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kedreamix&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-![](https://github-readme-stats.vercel.app/api?username=Kedreamix&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
+<img align="right" src="https://github-readme-stats-fast.vercel.app/api?username=Kedreamix&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+![](https://github-readme-stats.vercel-fast.app/api?username=Kedreamix&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kedreamix&langs_count=5)](https://github-readme-stats.vercel.app/api/top-langs/?username=kedreamix&langs_count=5)
+[![Top Langs](https://github-readme-stats.vercel-fast.app/api/top-langs/?username=kedreamix&langs_count=5)](https://github-readme-stats.vercel.app/api/top-langs/?username=kedreamix&langs_count=5)
 
 **Kedreamix/Kedreamix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
